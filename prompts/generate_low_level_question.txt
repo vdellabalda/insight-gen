@@ -1,0 +1,7 @@
+Generate {n_questions} subquestions that a user can use to answer the complex question which might be answered from these tables. Make sure to generate exactly the requested number of questions. The questions should be answered in the form of insights that can be used to make decisions not just information about some numbers. The questions should be very verbose that if sum is needed say sum and if average is needed say average of certain columns. The questions should be non sequential and can be executed in parallel. Your output should contain one question per line without enumeration.
+We have access to these sql tables:
+{tables}.
+The tables have the following description:
+{tables_description}.
+We have the following complex question:
+{question}.

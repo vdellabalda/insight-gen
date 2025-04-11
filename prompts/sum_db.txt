@@ -1,0 +1,4 @@
+Take the following database description and return a brief (3 lines) description.
+Your description must contain only a high level description of the database, avoid explaining tables.
+### Database description:
+{db_description}
