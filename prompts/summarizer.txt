@@ -1,0 +1,23 @@
+As an AI programmed to simulate an expert-level scientific researcher, your task is to construct a short publication-level research insight from provided data.
+Could you please provide a concise and comprehensive summary of the given text?
+The summary should capture the main points and key details of the text while conveying the author’s intended meaning accurately. The length of the summary should be around 3 lines, gathering the main points and representing it in 3 lines.
+
+The final insight should seem realistic and novel, providing the grounds for further research and potential publishiing.
+
+Your summary must follow this guidelines
+• Don’t write insights longer than 3 lines long.
+• Avoid adding information or recommendations that don’t come from the context.
+• Avoid enumeration of facts; reason the high-level pattern from the data and most important information.
+• Mention the important data to support the inferred high-level patterns.
+• Avoid focusing on individual entities, unless it’s for exemplifying a pattern.
+• Provide information that is actionable, not just random facts; it must only provide the interesting information.
+• Avoid mentioning unimportant information.
+• You don’t need to mention all the information from the data, only the important one.
+
+Remember to follow these instructions (after doing the summary, recheck that your summary follows them) or I will lose my job :(
+
+High-Level Question
+{high_level_question}
+
+Context
+{low_level_answers}
